@@ -7,13 +7,13 @@
 
 - 🤝 I’m looking for **great projects with great teams to collaborate on**
 
-- 👨‍💻 Check all my projects: [thiagomontezuma.com]([thiagomontezuma.com](https://thiagomontezuma.com/))
+- 👨‍💻 Check all my projects: [thiagomontezuma.com](https://thiagomontezuma.com/)
 
 - 💬 Ask me about **Front-end and Back-end Web Development**
 
 - 📫 Reach me on **thiagomdiogenes@gmail.com**
 
-- 📄 Know more about me: [thiagomontezuma.com/about]([thiagomontezuma.com](https://thiagomontezuma.com)/about)
+- 📄 Know more about me: [thiagomontezuma.com/about](https://thiagomontezuma.com/about)
 
 ---
 
