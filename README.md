@@ -1,68 +1,73 @@
-# Hi 👋, I'm Thiago Montezuma Diogenes
-### A web developer that thrives on challenges
+[![thiago montezuma GitHub Banner](./assets/thiago-montezuma-banner.png)](https://thiagomontezuma.com/)
+## A Web Developer That Thrives on Challenges
 
-- 🔭 I’m currently working on **UX & UI Improvements**
+- 🔭 I’m currently working on **API-driven Server to handle the front-end need for authentication, storage, security and communication to database all by API**
 
-- 🌱 I’m currently learning **Code Optimization and Refactoring**
+- 📖 I’m currently learning **API Security**
 
-- 👯 I’m looking to collaborate on **any front-end projects**
+- 🤝 I’m looking for **great projects with great teams to collaborate on**
 
-- 🤝 I’m looking for **a good team to collaborate on projects**
+- 👨‍💻 Check all my projects: [thiagomontezuma.com]([thiagomontezuma.com](https://thiagomontezuma.com/))
 
-- 👨‍💻 All of my projects are available at [thiagomontezuma.com](thiagomontezuma.com)
+- 💬 Ask me about **Front-end and Back-end Web Development**
 
-- 💬 Ask me about **Web Development**
+- 📫 Reach me on **thiagomdiogenes@gmail.com**
 
-- 📫 How to reach me **thiagomdiogenes@gmail.com**
-
-- 📄 Know about my experiences [thiagomontezuma.com/about](thiagomontezuma.com/about)
+- 📄 Know more about me: [thiagomontezuma.com/about]([thiagomontezuma.com](https://thiagomontezuma.com)/about)
 
 ---
 
 ### Connect with me:
-[<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="thiagomontezuma linkedin" height="40" width="40" />](https://linkedin.com/in/thiagomontezuma)
-[<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="thiagomontezuma twitter" height="40" width="40" />](https://twitter.com/thiagomontezum_)
-[<img align="center" src="https://www.svgrepo.com/show/452229/instagram-1.svg" alt="thiagomontezuma instagram" height="40" width="40" />](https://instagram.com/thiagomontezuma_)
+[<img align="center" src="https://www.svgrepo.com/show/452051/linkedin.svg" alt="thiagomontezuma linkedin" height="40" width="40" />](https://linkedin.com/in/thiagomontezuma)
+[<img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-twitter-9420781-7651211.png?f=webp&w=512" alt="thiagomontezuma twitter" height="40" width="40" />](https://twitter.com/thiagomontezum_)
+[<img align="center" src="https://www.svgrepo.com/show/303154/instagram-2016-logo.svg" alt="thiagomontezuma instagram" height="40" width="40" />](https://instagram.com/thiagomontezuma_)
 [<img align="center" src="https://www.svgrepo.com/show/448261/youtube.svg" alt="thiagomontezuma youtube" height="40" width="40" />](https://youtube.com/@thiagomontezuma7639)
 [<img align="center" src="https://img.icons8.com/fluency/512/internet.png" alt="thiagomontezuma website" height="40" width="40" />](https://thiagomontezuma.com/)
 
 ---
 
 ### Languages and Tools:
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>](https://dev.w3.org/html5/spec-LC/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>](https://www.w3.org/Style/CSS/Overview.en.html)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>](https://reactjs.org/)
-[<img src="https://camo.githubusercontent.com/e1e113df83e7731fdb90f6f0ab2eeb155fd1b48c27d99814dcf1c23c0acdc6a2/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6461726b5f6261636b67726f756e642e706e67" alt="nextjs" width="40" height="40"/>](https://nextjs.org/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>](https://www.php.net/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>](https://www.mysql.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>](https://nodejs.org/)
-[<img src="https://img.icons8.com/office/512/express-js.png" alt="express" width="40" height="40"/>](http://expressjs.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jamstack/jamstack-original.svg" alt="jamstack" width="40" height="40"/>](https://jamstack.org/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/>](https://tailwindcss.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>](https://www.npmjs.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>](https://getbootstrap.com)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/>](https://jquery.com/)
-[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>](https://git-scm.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>](https://www.electronjs.org/)
-[<img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/>](https://www.gatsbyjs.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/>](https://wordpress.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>](https://sass-lang.com)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>](https://www.python.org)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>](https://cplusplus.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>](https://cplusplus.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>](https://www.python.org)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>](https://www.apple.com/swift/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>](https://code.visualstudio.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/filezilla/filezilla-plain.svg" alt="filezilla" width="40" height="40"/>](https://filezilla-project.org/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="xcode" width="40" height="40"/>](https://developer.apple.com/xcode/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>](https://www.photoshop.com/en)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" alt="gimp" width="40" height="40"/>](https://www.gimp.org/)
-[<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>](https://www.adobe.com/products/xd.html)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="premierepro" width="40" height="40"/>](https://www.adobe.com/products/premiere.html)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
-![thiagomontezuma top languages](https://github-readme-stats.vercel.app/api/top-langs?username=thiagomontezuma&show_icons=true&locale=en&layout=compact)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
-![thiagomontezuma stats](https://github-readme-stats.vercel.app/api?username=thiagomontezuma&show_icons=true&locale=en)
+---
+
+### Stats:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomontezuma&theme=city_lights)
+
+![thiagomontezuma GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagomontezuma&show_icons=true&theme=city_lights)
+
+![thiagomontezuma GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thiagomontezuma&theme=city-lights)
+
+![thiagomontezuma github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thiagomontezuma&theme=rogue)
 
 ![thiagomontezuma trophies](https://github-profile-trophy.vercel.app/?username=thiagomontezuma)
