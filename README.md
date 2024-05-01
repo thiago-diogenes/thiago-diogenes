@@ -1,4 +1,4 @@
-[![thiago montezuma GitHub Banner](./assets/thiago-montezuma-banner.png)](https://thiagomontezuma.com/)
+[![Thiago Montezuma GitHub Banner](./assets/thiago-montezuma-banner.png)](https://thiagomontezuma.com/)
 ## A Web Developer That Thrives on Challenges
 
 - 🔭 I’m currently working on **API-driven Server to handle the front-end need for authentication, storage, security and communication to database all by API**
@@ -64,10 +64,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomontezuma&theme=city_lights)
 
-![thiagomontezuma GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagomontezuma&show_icons=true&theme=city_lights)
+![Thiago Montezuma GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiagomontezuma&show_icons=true&theme=city_lights)
 
-![thiagomontezuma GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thiagomontezuma&theme=city-lights)
+![Thiago Montezuma GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thiagomontezuma&theme=city-lights)
 
-![thiagomontezuma github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thiagomontezuma&theme=rogue)
+![Thiago Montezuma Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thiagomontezuma&theme=rogue)
 
-![thiagomontezuma trophies](https://github-profile-trophy.vercel.app/?username=thiagomontezuma)
+![Thiago Montezuma Trophies](https://github-profile-trophy.vercel.app/?username=thiagomontezuma&theme=onedark)
